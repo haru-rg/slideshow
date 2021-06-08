@@ -1,0 +1,26 @@
+body {
+    width: 500px;
+    background-color: black;
+    margin: 50px;
+}
+
+h1,
+p {
+    margin-left: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+.slick {
+    width: 100%;
+}
+
+.slider {
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+}
+
+.slider img {
+    width: 100%;
+}
